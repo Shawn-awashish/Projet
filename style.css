@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Ranchers&display=swap");
+h1
+{
+ font-family: "Open Sans Condensed", "sans-serif";
+
+}
+
+.banner {
+background-image: url("images/shawn.jpg");
+background-size: cover;
+height: 130px;
+color:white;
+display:flex;
+align-items: center;
+justify-content: center;
+}
+body {
+	margin: 0px;
+	}
+.container  {
+margin: 40px auto;
+width: 500px;
+text-align: center;
+}
